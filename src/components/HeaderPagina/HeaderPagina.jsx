@@ -1,5 +1,5 @@
-import './index.css'
-import Logo from "../Logo"
+import './HeaderPagina.css'
+import Logo from "../logo/Logo"
 
 function HeaderPagina() {
   return (
